@@ -1,0 +1,36 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(165, 220, 252);
+  height: 30vh;
+  font-family: 'Staatliches', cursive;
+  font-size: 4rem;
+}
+
+/* making it pretty */
+.header h1{
+  color: white;
+}
+
+.container h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+}
+
+.container p{
+  font-size: 1.2rem;
+}
+
+/* make it visable */
+img{
+  border: 1px solid black;
+}
+
+/* Making it pretty. */
+main{
+  width: 80vw;
+  max-width: 95ch;
+  margin: 1rem auto;
+}
